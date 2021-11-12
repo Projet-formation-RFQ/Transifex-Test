@@ -1,0 +1,10 @@
+[main]
+host = https://www.transifex.com
+
+[robotique-first-quebec-test.readme-md]
+file_filter = translations/<lang>/README.md
+minimum_perc = 0
+source_file = README.md
+source_lang = en
+type = GITHUBMARKDOWN
+
