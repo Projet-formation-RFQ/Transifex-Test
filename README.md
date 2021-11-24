@@ -5,7 +5,7 @@ This is a paragraph that needs translating.
 
 ## Section Two
 
-More stuff to translate here.
+More lines to translate here.
 
 ## Section Three
 
